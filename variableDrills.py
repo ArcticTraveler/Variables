@@ -96,3 +96,5 @@ print(name[2:])
 print(1,2,3)
 name = "Finally Done"
 print(name)
+var1 = name
+print(var1)
