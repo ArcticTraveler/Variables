@@ -94,3 +94,5 @@ print(name[:3])
 print(name[1:4])
 print(name[2:])
 print(1,2,3)
+name = "Finally Done"
+print(name)
